@@ -1,11 +1,11 @@
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom"
 
-<<<<<<< HEAD
+
 import Gestao from "./components"
-=======
+
 // páginas
 import Gestao from "./pages/Gestao"
->>>>>>> 147416e0b564022e418af8a55d0212ed98414fe4
+
 import Dashboard from "./pages/Dashboard"
 
 function App() {
