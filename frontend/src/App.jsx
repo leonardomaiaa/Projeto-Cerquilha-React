@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route, Link } from "react-router-dom"
 // páginas do sistema
 import Gestao from "./pages/Gestao"
 import Dashboard from "./pages/Dashboard"
+import Sidebar from "./components/Sidebar"
 
 function App() {
   return (
